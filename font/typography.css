@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'DungeonFont';        /* Name you will use in CSS */
+    src: 
+        url('https://github.com/LootGodamn/BED_CA2_Media/raw/refs/heads/main/font/DungeonFont.ttf') 
+        format('truetype'); 
+        /* Path to the .ttf file */
+    font-weight: normal;                /* Optional: normal, bold, etc. */
+    font-style: normal;                 /* Optional: normal, italic, etc. */
+}
+
+@font-face {
+    font-family: 'PixelSerif';        /* Name you will use in CSS */
+    src: 
+        url('https://github.com/LootGodamn/BED_CA2_Media/raw/refs/heads/main/font/PixelSerif_16px_v02.ttf') 
+        format('truetype'); /* Path to the .ttf file */
+    font-weight: normal;                /* Optional: normal, bold, etc. */
+    font-style: normal;                 /* Optional: normal, italic, etc. */
+}
